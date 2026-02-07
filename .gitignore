@@ -25,6 +25,11 @@ test_register.js
 test_register_5001.sh
 TODO_403_FIX.md
 
+# Documentation (local only)
+DEPLOYMENT_GUIDE.md
+PROJECT_PRESENTATION_GUIDE.md
+RESUME_DESCRIPTION.md
+
 # Build output
 dist/
 build/
