@@ -1,0 +1,14 @@
+{
+  "name": "smart-task-manager-mern",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "server": "node server/index.js",
+    "client": "cd client && npm start",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "dependencies": {
+    "concurrently": "^9.0.0"
+  }
+}
+
